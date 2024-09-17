@@ -1,7 +1,7 @@
 import requests
 
 # API keys
-API_KEY = '578967cfa706890de1af59e70e0283c0'
+API_KEY = 'YOUR_API_KEY_HERE' # placeholder
 BASE_URL_WEATHER = "http://api.openweathermap.org/data/2.5/weather?"
 IP_INFO_URL = "http://ipinfo.io"
 
